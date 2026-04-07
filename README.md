@@ -53,7 +53,7 @@ To become a highly skilled Cybersecurity Analyst / Engineer, contributing to sec
 ## 📬 Connect With Me
 
 - 💻 GitHub: https://github.com/philomathtech  
-- 💼 LinkedIn: linkedin.com/simphiwe-rudolph-ngwenya-4771a0262
+- 💼 LinkedIn: https://linkedin.com/simphiwe-rudolph-ngwenya-4771a0262
 - 📧 Email: simphiwengwenya66@gmail.com
 
 ---
